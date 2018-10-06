@@ -1,3 +1,3 @@
 # Gismat
-just another repository
+
 I am Gismat Mammadow, I am a master student at University of Lodz(Poland). I am studying in computer science and I am trying to learn web develepment...That is all.....
